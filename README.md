@@ -47,4 +47,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ---
 
-*This project is a work in progress and we appreciate your feedback and contributions!*
+*This project is a work in progress and I appreciate your feedback and contributions!*
